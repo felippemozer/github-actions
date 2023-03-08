@@ -16,4 +16,4 @@ jobs:
         run: go build -v ./hello-world.go
 
       - name: Test
-        run: go test -v ./hello-world.go
+        run: go run -v ./hello-world.go
