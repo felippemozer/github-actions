@@ -1,2 +1,3 @@
-# github-actions
-Github Actions Repo w/ study examples
+# Github Actions
+
+Some Github Actions tutorials as practices of CI pipeline and `.yml` configuration writing
