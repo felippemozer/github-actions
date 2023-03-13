@@ -1,5 +1,8 @@
 name: Semantic Release Test
-on: [push]
+on: 
+  push:
+    branches:
+      - semantic-release
 
 jobs:
   release:
